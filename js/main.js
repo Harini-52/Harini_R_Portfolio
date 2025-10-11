@@ -159,3 +159,4 @@ window.addEventListener('load', animateOnScroll);
 // Apply fade-in-up class to sections and cards (new - apply this class in HTML)
 // For example: <section id="about" class="about-section fade-in-up">
 // Or apply to specific elements you want animated. 
+ 
